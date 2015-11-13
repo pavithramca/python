@@ -1,0 +1,7 @@
+s = 'pavithra'
+if s.isdigit():
+    print "Number"
+else:
+    print "Alphabet"
+
+#pavithra
